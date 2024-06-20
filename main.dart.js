@@ -100898,11 +100898,11 @@ $.awy=null
 $.aZl=function(){var s=t.N,r=t.z
 return A.b([A.ad(["name","Argentina","pts","0","df","0"],s,r),A.ad(["name","Canad\xe1","pts","0","df","0"],s,r),A.ad(["name","Chile","pts","0","df","0"],s,r),A.ad(["name","Per\xfa","pts","0","df","0"],s,r)],t.H7)}()
 $.aZm=function(){var s=t.N,r=t.z
-return A.b([A.ad(["name","Argentina","pts","0","df","0"],s,r),A.ad(["name","Canad\xe1","pts","0","df","0"],s,r),A.ad(["name","Chile","pts","0","df","0"],s,r),A.ad(["name","Per\xfa","pts","0","df","0"],s,r)],t.H7)}()
+return A.b([A.ad(["name","Ecuador","pts","0","df","0"],s,r),A.ad(["name","M\xe9xico","pts","0","df","0"],s,r),A.ad(["name","Jamaica","pts","0","df","0"],s,r),A.ad(["name","Venezuela","pts","0","df","0"],s,r)],t.H7)}()
 $.aZo=function(){var s=t.N,r=t.z
-return A.b([A.ad(["name","Argentina","pts","0","df","0"],s,r),A.ad(["name","Canad\xe1","pts","0","df","0"],s,r),A.ad(["name","Chile","pts","0","df","0"],s,r),A.ad(["name","Per\xfa","pts","0","df","0"],s,r)],t.H7)}()
+return A.b([A.ad(["name","Bolivia","pts","0","df","0"],s,r),A.ad(["name","Estados Unidos","pts","0","df","0"],s,r),A.ad(["name","Panam\xe1","pts","0","df","0"],s,r),A.ad(["name","Uruguay","pts","0","df","0"],s,r)],t.H7)}()
 $.aZp=function(){var s=t.N,r=t.z
-return A.b([A.ad(["name","Argentina","pts","0","df","0"],s,r),A.ad(["name","Canad\xe1","pts","0","df","0"],s,r),A.ad(["name","Chile","pts","0","df","0"],s,r),A.ad(["name","Per\xfa","pts","0","df","0"],s,r)],t.H7)}()
+return A.b([A.ad(["name","Brasil","pts","0","df","0"],s,r),A.ad(["name","Colombia","pts","0","df","0"],s,r),A.ad(["name","Costa Rica","pts","0","df","0"],s,r),A.ad(["name","Paraguay","pts","0","df","0"],s,r)],t.H7)}()
 $.ajH=null
 $.aGQ=!1
 $.aRz=A.y(t.S,A.aw("b0B"))})();(function lazyInitializers(){var s=hunkHelpers.lazyFinal,r=hunkHelpers.lazy
